@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/static/css/main.142d49cb.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/static/js/main.59a25bd8.js",
-    "static/js/496.a799b2d5.chunk.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/static/js/496.a799b2d5.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/index.html",
-    "main.142d49cb.css.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/static/css/main.142d49cb.css.map",
-    "main.59a25bd8.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/static/js/main.59a25bd8.js.map",
-    "496.a799b2d5.chunk.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.1/build/static/js/496.a799b2d5.chunk.js.map"
+    "main.css": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/static/css/main.142d49cb.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/static/js/main.846579f5.js",
+    "static/js/496.a799b2d5.chunk.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/static/js/496.a799b2d5.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/index.html",
+    "main.142d49cb.css.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/static/css/main.142d49cb.css.map",
+    "main.846579f5.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/static/js/main.846579f5.js.map",
+    "496.a799b2d5.chunk.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.2/build/static/js/496.a799b2d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.142d49cb.css",
-    "static/js/main.59a25bd8.js"
+    "static/js/main.846579f5.js"
   ]
 }
