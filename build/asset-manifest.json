@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/css/main.142d49cb.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/js/main.d2d83dd9.js",
-    "static/js/496.204acab1.chunk.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/js/496.204acab1.chunk.js",
-    "static/media/ministry-of-public-health-logo.png": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/media/ministry-of-public-health-logo.681b798f55141c09e5ab.png",
-    "static/media/ministry-of-public-health-logo-full.png": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/media/ministry-of-public-health-logo-full.92f073a7d7f72fd0e5e3.png",
-    "index.html": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/index.html",
-    "main.142d49cb.css.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/css/main.142d49cb.css.map",
-    "main.d2d83dd9.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/js/main.d2d83dd9.js.map",
-    "496.204acab1.chunk.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.3/build/static/js/496.204acab1.chunk.js.map"
+    "main.css": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/css/main.142d49cb.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/js/main.b865b2f3.js",
+    "static/js/496.204acab1.chunk.js": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/js/496.204acab1.chunk.js",
+    "static/media/ministry-of-public-health-logo.png": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/media/ministry-of-public-health-logo.681b798f55141c09e5ab.png",
+    "static/media/ministry-of-public-health-logo-full.png": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/media/ministry-of-public-health-logo-full.92f073a7d7f72fd0e5e3.png",
+    "index.html": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/index.html",
+    "main.142d49cb.css.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/css/main.142d49cb.css.map",
+    "main.b865b2f3.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/js/main.b865b2f3.js.map",
+    "496.204acab1.chunk.js.map": "https://cdn.jsdelivr.net/gh/gaewcha/vc-assets@2.1.4/build/static/js/496.204acab1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.142d49cb.css",
-    "static/js/main.d2d83dd9.js"
+    "static/js/main.b865b2f3.js"
   ]
 }
